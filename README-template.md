@@ -39,7 +39,5 @@ This is one little work from me, designe and starter files are taken from [front
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - siduki - https://github.com/siduki
 
