@@ -11,11 +11,10 @@ body {
   align-items: center;
   justify-content: center;
   background-color: hsl(185, 75%, 39%);
-}
-
-.social__container {
-  display: flex;
-  justify-content: space-evenly;
+  background-image: url(./images/bg-pattern-top.svg),
+    url(./images/bg-pattern-bottom.svg);
+  background-repeat: no-repeat;
+  background-position: left -220px bottom 230px, right -150px top 400px;
   padding-top: 20px;
   text-align: center;
 }
@@ -32,6 +31,12 @@ body {
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   border-bottom: 1px solid lightgray;
+}
+
+.social__container {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
 }
 
 .main__container {
